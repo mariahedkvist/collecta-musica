@@ -1,0 +1,28 @@
+main table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 90vw;
+}
+
+main table thead tr th {
+  padding: 1.2rem 0;
+}
+
+main table tbody tr td {
+  padding: 0.5rem 0.3rem;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(222, 211, 211, 0.5);
+}
+
+td a:hover {
+  font-style: normal;
+}
+
+/* Media Queries */
+@media (min-width: 600px) {
+  main table {
+    width: 80vw;
+  }
+}

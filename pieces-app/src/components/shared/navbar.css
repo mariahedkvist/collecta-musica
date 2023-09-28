@@ -1,0 +1,31 @@
+footer {
+  width: 100vw;
+}
+
+footer nav {
+  position: fixed;
+  bottom: 0;
+  width: 95vw;
+  background: var(--background-color-secondary);
+  border-radius: 15px 15px 0 0;
+  padding: 1.7rem;
+}
+
+footer nav ul li {
+  justify-content: space-between;
+  margin: 0 2rem;
+}
+
+@media (min-width: 600px) {
+  footer nav {
+    top: 0;
+    right: 0;
+    width: auto;
+    background-color: transparent;
+    border-radius: 0;
+  }
+  footer nav ul li {
+    justify-content: center;
+    margin: 0 1rem;
+  }
+}

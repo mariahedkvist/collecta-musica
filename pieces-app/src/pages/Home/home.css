@@ -1,0 +1,12 @@
+.hero-wrapper {
+  background-size: cover;
+  height: 100vh;
+}
+
+.login-prompt {
+  margin: 0 1rem;
+  padding: 1rem;
+  text-align: center;
+  position: relative;
+  top: 4rem;
+}

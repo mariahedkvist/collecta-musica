@@ -1,0 +1,14 @@
+input {
+  line-height: 1.5rem;
+  border: none;
+  border-radius: 2px;
+  padding: 5px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.filter-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}

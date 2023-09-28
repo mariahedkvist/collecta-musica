@@ -1,0 +1,54 @@
+{
+  "pieces": [
+    {
+      "id": 1,
+      "title": "Som ett blommande mandelträd",
+      "published": 1946,
+      "composerFirstName": "Hildor",
+      "composerLastName": "Lundvik",
+      "language": "Svenska",
+      "setting": "SATB",
+      "quantity": 24
+    },
+    {
+      "id": 2,
+      "title": "Roslagsvår",
+      "published": 1954,
+      "composerFirstName": "Hugo",
+      "composerLastName": "Alfvén",
+      "language": "Svenska",
+      "setting": "TTBB",
+      "quantity": 18
+    },
+    {
+      "id": 3,
+      "title": "Sverige",
+      "published": 1901,
+      "composerFirstName": "Wilhelm",
+      "composerLastName": "Stenhammar",
+      "language": "Svenska",
+      "setting": "SATB",
+      "quantity": 34
+    },
+    {
+      "id": 4,
+      "title": "Advance Democracy",
+      "published": 1938,
+      "composerFirstName": "Benjamin",
+      "composerLastName": "Britten",
+      "language": "Engelska",
+      "setting": "SATB",
+      "quantity": 26
+    },
+    {
+      "title": "Sügismaastikud",
+      "published": "1964",
+      "composerFirstName": "Veljo",
+      "composerLastName": "Tormis",
+      "language": "Estniska",
+      "setting": "SSAA",
+      "quantity": "18",
+      "id": 5
+    }
+  ]
+}

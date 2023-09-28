@@ -1,0 +1,22 @@
+form {
+  background-color: var(--background-color-secondary);
+  max-width: 20rem;
+  margin: auto;
+  padding: 2rem;
+  border-radius: 3px;
+}
+
+.form-control {
+  padding: 5px;
+  width: 80%;
+}
+
+form .form-control input,
+form .form-control button {
+  width: 100%;
+  line-height: 1.5rem;
+  border: none;
+  border-radius: 2px;
+  padding: 5px;
+  font-family: 'Montserrat', sans-serif;
+}
