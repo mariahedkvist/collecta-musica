@@ -20,9 +20,9 @@ const PieceDetails = () => {
       setPiece(data);
     };
     loadPiece();
-  }, []); // varför varning här men inte motsvarande i App.jsx?
+  }, []);
 
-  const tableHeadings = ['']; // det här är en sista-minuten-nödlösning
+  const tableHeadings = [''];
   const tableContents = <Piece piece={piece} />;
 
   return (
